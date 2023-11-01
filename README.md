@@ -1,7 +1,7 @@
 # AMBA_APB3
 
 This project uses APB3 to control two slave memories.  
-The address and the data width can be designated whthin 1 ~ 32 bits.
+The address and the data width can be designated whthin 1 ~ 32 bits.  
 The memory access latency is allowed.
 
 # APB3 Architecture
