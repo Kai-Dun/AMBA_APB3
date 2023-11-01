@@ -1,6 +1,6 @@
 # AMBA_APB3
 
-This project uses APB3 to control two slave memories.
+This project uses APB3 to control two slave memories. "\n"
 The address and the data width can be designated whthin 1 ~ 32 bits.
 
 # APB3 Architecture
