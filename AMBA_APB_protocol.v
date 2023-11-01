@@ -120,6 +120,4 @@ APB_SLAVE_MEM_slave2
 	.prdata(prdata_slave2),
 	.pready(pready_slave2)
 );
-
-
 endmodule 
